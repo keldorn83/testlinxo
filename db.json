@@ -2,7 +2,7 @@
     "result": [
         {
             "id": 1,
-            "name": "galerie 1",
+            "name": "galerie Papillons",
             "author": "Edgar Allan Poe",
             "url_list": [
                 "https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg",
@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "name": "galerie 2",
+            "name": "galerie Arbres",
             "author": "Victor Hugo",
             "url_list": [
                 "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
@@ -24,7 +24,7 @@
         },
         {
             "id": 3,
-            "name": "galerie 3",
+            "name": "galerie Canards",
             "author": "Emile Zola",
             "url_list": [
                 "https://www.gettyimages.fr/gi-resources/images/500px/983794168.jpg",
@@ -35,7 +35,7 @@
         },
         {
             "id": 4,
-            "name": "galerie 4",
+            "name": "galerie Nuages",
             "author": "Hergé",
             "url_list": [
                 "https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405__340.jpg",
